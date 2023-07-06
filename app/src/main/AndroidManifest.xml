@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCTEibPLWZUd_ckei0IIK3Vk18D6vZV-Ik" />
+            android:value="API" />
         <activity
             android:name=".ViewPager.ViewpagerActivity"
             android:exported="false" />
